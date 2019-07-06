@@ -1,13 +1,20 @@
 #example of how to handle live streaming camera in flask
 #taken from https://blog.miguelgrinberg.com/post/flask-video-streaming-revisited
+#pip install opencv-python
+
+import cv2
+from base_camera import BaseCamera
 
 class Camera(BaseCamera):
-    """An emulated camera implementation that streams a repeated sequence of
-    files 1.jpg, 2.jpg and 3.jpg at a rate of one frame per second."""
-    imgs = [open(f + '.jpg', 'rb').read() for f in ['1', '2', '3']]
-
     @staticmethod
     def frames():
+        camera = cv2.VideoCapture(0)
+        if not camera.isOpened():
+            raise RuntimeError('Could not start camera.')
+
         while True:
-            time.sleep(1)
-            yield Camera.imgs[int(time.time()) % 3]
+            # read current frame
+            _, img = camera.read()
+
+            # encode as a jpeg image and return it
+            yield cv2.imencode('.jpg', img)[1].tobytes()
