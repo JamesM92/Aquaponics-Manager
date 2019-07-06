@@ -1,3 +1,0 @@
-i used the following website for reference while constructing this web app program
-
--> https://projects.raspberrypi.org/en/projects/python-web-server-wtih-flask
