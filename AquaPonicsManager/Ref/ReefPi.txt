@@ -1,0 +1,7 @@
+Reef-Pi is a very similiar project if not the same as this
+
+We will use it for reference while contstructing our program.
+
+Reef-pi is written in go, while were wanting it to be written in python3
+
+->https://github.com/reef-pi/reef-pi

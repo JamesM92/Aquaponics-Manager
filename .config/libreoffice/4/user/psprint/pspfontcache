@@ -1,0 +1,424 @@
+LibreOffice PspFontCacheFile format 6
+FontCacheDirectory:1539087582:/usr/share/fonts/truetype/piboto
+File:PibotoLtItalic.ttf
+2;1
+PibotoLt
+0;PibotoLtItalic;2;5;5;2;65535;1047;270;197;0;1835;1317;1835;1317;0;0;0;0;Italic
+
+File:PibotoLt-Regular.ttf
+2;1
+PibotoLt
+0;PibotoLt-Regular;0;5;5;2;65535;1047;270;197;0;1888;1317;1888;1317;0;0;0;0;Regular
+
+File:PibotoCondensed-Regular.ttf
+2;1
+Piboto Condensed
+0;PibotoCondensed-Regular;0;5;3;2;65535;1047;270;197;0;1631;1317;1631;1317;0;0;0;0;Regular
+
+File:PibotoCondensed-Italic.ttf
+2;1
+Piboto Condensed
+0;PibotoCondensed-Italic;2;5;3;2;65535;1047;270;197;0;1630;1317;1630;1317;0;0;0;0;Italic
+
+File:Piboto-LightItalic.ttf
+2;1
+Piboto Light
+0;Piboto-LightItalic;2;3;5;2;65535;1047;270;197;0;1835;1317;1835;1317;0;0;0;0;Light Italic
+
+File:PibotoLtBoldItalic.ttf
+2;1
+PibotoLt
+0;PibotoLtBoldItalic;2;8;5;2;65535;1047;270;197;0;1886;1317;1886;1317;0;0;0;0;Bold Italic
+
+File:PibotoLtBold.ttf
+2;1
+PibotoLt
+0;PibotoLtBold;0;8;5;2;65535;1047;270;197;0;1696;1317;1696;1317;0;0;0;0;Bold
+
+File:Piboto-ThinItalic.ttf
+2;1
+Piboto Thin
+0;Piboto-ThinItalic;2;1;5;2;65535;1047;270;197;0;1564;1317;1564;1317;0;0;0;0;Thin Italic
+
+File:Piboto-Thin.ttf
+2;1
+Piboto Thin
+0;Piboto-Thin;0;1;5;2;65535;1047;270;197;0;1596;1317;1596;1317;0;0;0;0;Thin
+
+File:PibotoCondensed-BoldItalic.ttf
+2;1
+Piboto Condensed
+0;PibotoCondensed-BoldItalic;2;8;3;2;65535;1047;270;197;0;1647;1317;1647;1317;0;0;0;0;Bold Italic
+
+File:Piboto-Light.ttf
+2;1
+Piboto Light
+0;Piboto-Light;0;3;5;2;65535;1047;270;197;0;1890;1317;1890;1317;0;0;0;0;Light
+
+File:Piboto-Bold.ttf
+2;1
+Piboto
+0;Piboto-Bold;0;8;5;2;65535;1047;270;197;0;1696;1317;1696;1317;0;0;0;0;Bold
+
+File:Piboto-Regular.ttf
+2;1
+Piboto
+0;Piboto-Regular;0;5;5;2;65535;1047;270;197;0;1647;1317;1647;1317;0;0;0;0;Regular
+
+File:Piboto-Italic.ttf
+2;1
+Piboto
+0;Piboto-Italic;2;5;5;2;65535;1047;270;197;0;1864;1317;1864;1317;0;0;0;0;Italic
+
+File:Piboto-BoldItalic.ttf
+2;1
+Piboto
+0;Piboto-BoldItalic;2;8;5;2;65535;1047;270;197;0;1886;1317;1886;1317;0;0;0;0;Bold Italic
+
+File:PibotoCondensed-Bold.ttf
+2;1
+Piboto Condensed
+0;PibotoCondensed-Bold;0;8;3;2;65535;1047;270;197;0;1657;1317;1657;1317;0;0;0;0;Bold
+
+FontCacheDirectory:1562439357:/usr/share/fonts/truetype/openoffice
+File:opens___.ttf
+2;1
+OpenSymbol
+0;OpenSymbol;0;5;5;2;65535;916;312;184;0;1262;1228;1262;1228;0;0;0;8;Regular
+
+FontCacheDirectory:1539087074:/usr/share/fonts/truetype/noto
+File:NotoMono-Regular.ttf
+2;1
+Noto Mono
+0;NotoMono;0;5;5;1;65535;927;244;175;0;794;1171;794;1171;0;0;0;0;Regular
+
+FontCacheDirectory:1539087074:/usr/share/fonts/truetype/liberation2
+File:LiberationSans-Bold.ttf
+2;1
+Liberation Sans
+0;LiberationSans-Bold;0;8;5;2;65535;905;211;32;0;1785;1116;1785;1116;0;0;0;0;Bold
+
+File:LiberationMono-BoldItalic.ttf
+2;1
+Liberation Mono
+0;LiberationMono-BoldItalic;2;8;5;1;65535;832;300;169;0;1272;1132;1272;1132;0;0;0;0;Bold Italic
+
+File:LiberationSerif-Regular.ttf
+2;1
+Liberation Serif
+0;LiberationSerif;0;5;5;2;65535;891;216;42;0;1821;1107;1821;1107;0;0;0;0;Regular
+
+File:LiberationSerif-BoldItalic.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-BoldItalic;2;8;5;2;65535;891;216;42;0;1850;1107;1850;1107;0;0;0;0;Bold Italic
+
+File:LiberationMono-Regular.ttf
+2;1
+Liberation Mono
+0;LiberationMono;0;5;5;1;65535;832;300;169;0;1223;1132;1223;1132;0;0;0;0;Regular
+
+File:LiberationMono-Bold.ttf
+2;1
+Liberation Mono
+0;LiberationMono-Bold;0;8;5;1;65535;832;300;169;0;1177;1132;1177;1132;0;0;0;0;Bold
+
+File:LiberationMono-Italic.ttf
+2;1
+Liberation Mono
+0;LiberationMono-Italic;2;5;5;1;65535;832;300;169;0;1304;1132;1304;1132;0;0;0;0;Italic
+
+File:LiberationSans-BoldItalic.ttf
+2;1
+Liberation Sans
+0;LiberationSans-BoldItalic;2;8;5;2;65535;905;211;32;0;1834;1116;1834;1116;0;0;0;0;Bold Italic
+
+File:LiberationSerif-Italic.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-Italic;2;5;5;2;65535;891;216;42;0;1829;1107;1829;1107;0;0;0;0;Italic
+
+File:LiberationSerif-Bold.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-Bold;0;8;5;2;65535;891;216;42;0;1887;1107;1887;1107;0;0;0;0;Bold
+
+File:LiberationSans-Italic.ttf
+2;1
+Liberation Sans
+0;LiberationSans-Italic;2;5;5;2;65535;905;211;32;0;2024;1116;2024;1116;0;0;0;0;Italic
+
+File:LiberationSans-Regular.ttf
+2;1
+Liberation Sans
+0;LiberationSans;0;5;5;2;65535;905;211;32;0;1844;1116;1844;1116;0;0;0;0;Regular
+
+FontCacheDirectory:1539087442:/usr/share/fonts/truetype/dejavu
+File:DejaVuSerif-Bold.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Bold;0;8;5;2;65535;938;235;175;0;2689;1173;2689;1173;0;0;0;0;Bold
+
+File:DejaVuSerif.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif;0;5;5;2;65535;928;235;174;0;2874;1163;2874;1163;0;0;0;0;Book
+
+File:DejaVuSerifCondensed-Bold.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Bold;0;8;4;2;65535;938;235;175;0;2420;1173;2420;1173;0;0;0;0;Condensed Bold
+
+File:DejaVuSerif-Italic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Italic;2;5;5;2;65535;928;235;174;0;2483;1163;2483;1163;0;0;0;0;Italic
+
+File:DejaVuSansMono.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono;0;5;5;1;65535;928;235;174;0;1274;1163;1274;1163;0;0;0;0;Book
+
+File:DejaVuSerifCondensed.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed;0;5;4;2;65535;928;235;174;0;2587;1163;2587;1163;0;0;0;0;Condensed
+
+File:DejaVuSans-Bold.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Bold;0;8;5;2;65535;928;235;174;0;3044;1163;3044;1163;0;0;0;0;Bold
+
+File:DejaVuSerifCondensed-Italic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Italic;2;5;4;2;65535;928;235;174;0;2235;1163;2235;1163;0;0;0;0;Condensed Italic
+
+File:DejaVuSansCondensed-Oblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Oblique;1;5;4;2;65535;928;235;174;0;2407;1163;2407;1163;0;0;0;0;Condensed Oblique
+
+File:DejaVuSansCondensed-BoldOblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-BoldOblique;1;8;4;2;65535;928;235;174;0;2758;1163;2758;1163;0;0;0;0;Condensed Bold Oblique
+
+File:DejaVuSerif-BoldItalic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-BoldItalic;2;8;5;2;65535;938;235;175;0;2829;1173;2829;1173;0;0;0;0;Bold Italic
+
+File:DejaVuSerifCondensed-BoldItalic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-BoldItalic;2;8;4;2;65535;938;235;175;0;2547;1173;2547;1173;0;0;0;0;Condensed Bold Italic
+
+File:DejaVuSansCondensed.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed;0;5;4;2;65535;928;235;174;1;2532;1163;2532;1163;0;0;0;0;Condensed
+
+File:DejaVuSansCondensed-Bold.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Bold;0;8;4;2;65535;928;235;174;0;2739;1163;2739;1163;0;0;0;0;Condensed Bold
+
+File:DejaVuSans-Oblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Oblique;1;5;5;2;65535;928;235;174;0;2674;1163;2674;1163;0;0;0;0;Oblique
+
+File:DejaVuSansMono-BoldOblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-BoldOblique;1;8;5;1;65535;928;235;174;0;1232;1163;1232;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSans-ExtraLight.ttf
+2;1
+DejaVu Sans Light
+0;DejaVuSans-ExtraLight;0;2;5;2;65535;928;235;174;0;2391;1163;2391;1163;0;0;0;0;ExtraLight
+
+File:DejaVuSansMono-Bold.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Bold;0;8;5;1;65535;928;235;174;0;1176;1163;1176;1163;0;0;0;0;Bold
+
+File:DejaVuSans-BoldOblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-BoldOblique;1;8;5;2;65535;928;235;174;0;3064;1163;3064;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSansMono-Oblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Oblique;1;5;5;1;65535;928;235;174;0;1148;1163;1148;1163;0;0;0;0;Oblique
+
+File:DejaVuMathTeXGyre.ttf
+2;1
+DejaVu Math TeX Gyre
+0;DejaVuMathTeXGyre-Regular;0;5;5;2;65535;792;208;200;0;4501;1000;4501;1000;0;0;0;12;Regular
+
+File:DejaVuSans.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans;0;5;5;2;65535;928;235;174;1;2813;1163;2813;1163;0;0;0;0;Book
+
+FontCacheDirectory:1539087051:/usr/share/fonts/truetype/droid
+File:DroidSansFallbackFull.ttf
+2;1
+Droid Sans Fallback
+0;DroidSansFallback;0;5;5;2;65535;1042;265;196;0;1003;1307;1003;1307;0;0;0;8;Regular
+
+FontCacheDirectory:1539087638:/usr/share/fonts/truetype/freefont
+File:FreeSerifItalic.ttf
+2;1
+FreeSerif
+0;FreeSerifItalic;2;5;5;2;65535;900;200;100;0;2437;1100;2437;1100;0;0;0;0;Italic
+
+File:FreeMonoBoldOblique.ttf
+2;1
+FreeMono
+0;FreeMonoBoldOblique;2;8;5;1;65535;800;200;150;0;1476;1000;1476;1000;0;0;0;0;Bold Oblique
+
+File:FreeMono.ttf
+2;1
+FreeMono
+0;FreeMono;0;5;5;1;65535;800;200;150;0;1492;1000;1492;1000;0;0;0;0;Regular
+
+File:FreeSansBold.ttf
+2;1
+FreeSans
+0;FreeSansBold;0;7;5;2;65535;900;200;100;0;2524;1100;2524;1100;0;0;0;0;Bold
+
+File:FreeMonoOblique.ttf
+2;1
+FreeMono
+0;FreeMonoOblique;2;5;5;1;65535;800;200;150;0;1460;1000;1460;1000;0;0;0;0;Oblique
+
+File:FreeMonoBold.ttf
+2;1
+FreeMono
+0;FreeMonoBold;0;8;5;1;65535;800;200;150;0;1336;1000;1336;1000;0;0;0;0;Bold
+
+File:FreeSans.ttf
+2;1
+FreeSans
+0;FreeSans;0;5;5;2;65535;900;200;100;0;3426;1100;3426;1100;0;0;0;0;Regular
+
+File:FreeSansBoldOblique.ttf
+2;1
+FreeSans
+0;FreeSansBoldOblique;2;7;5;2;65535;900;200;100;0;2499;1100;2499;1100;0;0;0;0;Bold Oblique
+
+File:FreeSerifBold.ttf
+2;1
+FreeSerif
+0;FreeSerifBold;0;8;5;2;65535;900;200;100;0;2653;1100;2653;1100;0;0;0;0;Bold
+
+File:FreeSerif.ttf
+2;1
+FreeSerif
+0;FreeSerif;0;5;5;2;65535;900;200;100;0;2646;1100;2646;1100;0;0;0;0;Regular
+
+File:FreeSerifBoldItalic.ttf
+2;1
+FreeSerif
+0;FreeSerifBoldItalic;2;8;5;2;65535;900;200;100;0;2519;1100;2519;1100;0;0;0;0;Bold Italic
+
+File:FreeSansOblique.ttf
+2;1
+FreeSans
+0;FreeSansOblique;2;5;5;2;65535;900;200;100;0;2738;1100;2738;1100;0;0;0;0;Oblique
+
+FontCacheDirectory:1539087581:/usr/share/fonts/truetype/lato
+File:Lato-Medium.ttf
+2;1
+Lato Medium
+0;Lato-Medium;0;6;5;2;65535;987;213;180;0;1899;1200;1899;1200;0;0;0;0;Medium
+
+File:Lato-SemiboldItalic.ttf
+2;1
+Lato Semibold
+0;Lato-SemiboldItalic;2;7;5;2;65535;987;213;180;0;1802;1200;1802;1200;0;0;0;0;Semibold Italic
+
+File:Lato-Semibold.ttf
+2;1
+Lato Semibold
+0;Lato-Semibold;0;7;5;2;65535;987;213;180;0;1919;1200;1919;1200;0;0;0;0;Semibold
+
+File:Lato-MediumItalic.ttf
+2;1
+Lato Medium
+0;Lato-MediumItalic;2;6;5;2;65535;987;213;180;0;1795;1200;1795;1200;0;0;0;0;Medium Italic
+
+File:Lato-Hairline.ttf
+2;1
+Lato Hairline
+0;Lato-Hairline;0;1;5;2;65535;987;213;180;0;1799;1200;1799;1200;0;0;0;0;Hairline
+
+File:Lato-BoldItalic.ttf
+2;1
+Lato
+0;Lato-BoldItalic;2;8;5;2;65535;987;213;180;0;1813;1200;1813;1200;0;0;0;0;Bold Italic
+
+File:Lato-HairlineItalic.ttf
+2;1
+Lato Hairline
+0;Lato-HairlineItalic;2;1;5;2;65535;987;213;180;0;1745;1200;1745;1200;0;0;0;0;Hairline Italic
+
+File:Lato-Bold.ttf
+2;1
+Lato
+0;Lato-Bold;0;8;5;2;65535;987;213;180;0;1947;1200;1947;1200;0;0;0;0;Bold
+
+File:Lato-LightItalic.ttf
+2;1
+Lato Light
+0;Lato-LightItalic;2;3;5;2;65535;987;213;180;0;1767;1200;1767;1200;0;0;0;0;Light Italic
+
+File:Lato-Thin.ttf
+2;1
+Lato Thin
+0;Lato-Thin;0;2;5;2;65535;987;213;180;0;1807;1200;1807;1200;0;0;0;0;Thin
+
+File:Lato-Regular.ttf
+2;1
+Lato
+0;Lato-Regular;0;5;5;2;65535;987;213;180;0;1888;1200;1888;1200;0;0;0;0;Regular
+
+File:Lato-HeavyItalic.ttf
+2;1
+Lato Heavy
+0;Lato-HeavyItalic;2;9;5;2;65535;987;213;180;0;1822;1200;1822;1200;0;0;0;0;Heavy Italic
+
+File:Lato-ThinItalic.ttf
+2;1
+Lato Thin
+0;Lato-ThinItalic;2;2;5;2;65535;987;213;180;0;1754;1200;1754;1200;0;0;0;0;Thin Italic
+
+File:Lato-Light.ttf
+2;1
+Lato Light
+0;Lato-Light;0;3;5;2;65535;987;213;180;0;1820;1200;1820;1200;0;0;0;0;Light
+
+File:Lato-Black.ttf
+2;1
+Lato Black
+0;Lato-Black;0;10;5;2;65535;987;213;180;0;2010;1200;2010;1200;0;0;0;0;Black
+
+File:Lato-Heavy.ttf
+2;1
+Lato Heavy
+0;Lato-Heavy;0;9;5;2;65535;987;213;180;0;1971;1200;1971;1200;0;0;0;0;Heavy
+
+File:Lato-Italic.ttf
+2;1
+Lato
+0;Lato-Italic;2;5;5;2;65535;987;213;180;0;1791;1200;1791;1200;0;0;0;0;Italic
+
+File:Lato-BlackItalic.ttf
+2;1
+Lato Black
+0;Lato-BlackItalic;2;10;5;2;65535;987;213;180;0;1832;1200;1832;1200;0;0;0;0;Black Italic
+
