@@ -38,7 +38,7 @@ SENSORS
 \\\\\\\\\\\\\\\\\\\\\\\
 Electrical Components
 ////////////////////////
-	Analog to Digital Converter  - 8 ch
+	Analog to Digital Converter  - 8 ch - MCP3008
 		https://www.adafruit.com/product/856
 		
 	5v to 3v Level Shifter

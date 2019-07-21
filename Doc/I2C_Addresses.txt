@@ -1,0 +1,7 @@
+Address		Model		USe
+58		lps35hw		Barometric pressure
+5D		gps30		Air Quality Sensor
+73		batt		Pi-top battery
+
+Address Clashes
+10				LUX / UV INDEX

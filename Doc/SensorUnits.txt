@@ -1,0 +1,12 @@
+VEML6075
+	UVA	counts/uW/cm^2
+	UVB	counts/uW/cm^2
+	UVIndex	% (WHITE / Infrared)
+
+LPS35HW
+	Press	hPA	hectaPascal
+	Temp	C
+
+SGP30
+	eCO2	ppM	parts/million
+	VOC	ppB	parts/billion

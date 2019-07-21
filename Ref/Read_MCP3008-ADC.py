@@ -49,10 +49,10 @@ def readadc(adcnum, clockpin, mosipin, misopin, cspin):
 
 # change these as desired - they're the pins connected from the
 # SPI port on the ADC to the Cobbler
-SPICLK = 18
-SPIMISO = 23
-SPIMOSI = 24
-SPICS = 25
+SPICLK = 11
+SPIMISO = 9
+SPIMOSI = 10
+SPICS = 5
 
 # set up the SPI interface pins
 GPIO.setup(SPIMOSI, GPIO.OUT)
@@ -64,11 +64,7 @@ GPIO.setup(SPICS, GPIO.OUT)
 ADC_0 = 0
 ADC_1 = 0
 ADC_2 = 0
-ADC_3 = 0
-ADC_4 = 0
-ADC_5 = 0
-ADC_6 = 0
-ADC_7 = 0
+
 
 
 while True:
@@ -76,10 +72,10 @@ while True:
         ADC_0 = readadc(0, SPICLK, SPIMOSI, SPIMISO, SPICS)
         print (ADC_0)
         
-        ADC_1 = readadc(0, SPICLK, SPIMOSI, SPIMISO, SPICS)
+        ADC_1 = readadc(1, SPICLK, SPIMOSI, SPIMISO, SPICS)
         print (ADC_1)
         
-        ADC_2 = readadc(0, SPICLK, SPIMOSI, SPIMISO, SPICS)
+        ADC_2 = readadc(2, SPICLK, SPIMOSI, SPIMISO, SPICS)
         print (ADC_2)
         
         time.sleep(1.0)
