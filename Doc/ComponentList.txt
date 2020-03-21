@@ -1,23 +1,23 @@
 SENSORS
 ///////////////////
-	12" Liquid Level Sensor
+	12" Liquid Level Sensor (currently not installed)
 		https://www.adafruit.com/product/2656
 		Analog / Voltage
 		3v/5v
 	
-	Encased Temperature Humidity Sensor
+	Encased Temperature Humidity Sensor (currently not installed)
 		https://www.adafruit.com/product/1293
-		Digital / I2C
+		Digital / I2C / xx
 		5V
 	
 	Air Quality VOC / eCO2
 		https://www.adafruit.com/product/3709
-		Digital / I2C
+		Digital / I2C / 5D
 		3.3V/5V
 
 	Water Resistant Barometric Pressure
 		https://www.adafruit.com/product/4258
-		Digital / I2C
+		Digital / I2C / 58
 		3.3V/5V
 	
 	10k thermistors
@@ -27,12 +27,12 @@ SENSORS
 	
 	UVA / UVB / UV index
 		https://www.adafruit.com/product/3964
-		Digital / I2C
+		Digital / I2C / 10 (clashes)
 		3.3V/5V
 	
 	Lux Sensor
 		https://www.adafruit.com/product/4162
-		Digital / I2C
+		Digital / I2C / 10 (clashes)
 		3.3V/5V
 		
 \\\\\\\\\\\\\\\\\\\\\\\
