@@ -2,8 +2,8 @@ SENSORS
 ///////////////////
 	12" Liquid Level Sensor (currently not installed)
 		https://www.adafruit.com/product/2656
-		Analog / Voltage
-		3v/5v
+		Analog / Resistance
+		3v/5v/other
 	
 	Encased Temperature Humidity Sensor (currently not installed)
 		https://www.adafruit.com/product/1293
@@ -23,7 +23,7 @@ SENSORS
 	10k thermistors
 		https://www.adafruit.com/product/372
 		Analog / Resistance
-		3.3V/5V
+		3.3V/5V/other
 	
 	UVA / UVB / UV index
 		https://www.adafruit.com/product/3964
@@ -40,6 +40,8 @@ Electrical Components
 ////////////////////////
 	Analog to Digital Converter  - 8 ch - MCP3008
 		https://www.adafruit.com/product/856
+		Digital / SPI
+		3.3V/5.V
 		
 	5v to 3v Level Shifter
 		https://www.amazon.com/gp/product/B074M8TM81
