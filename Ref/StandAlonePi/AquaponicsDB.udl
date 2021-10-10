@@ -1,3 +1,2 @@
 [mysql]
-; Everything after this line is an OLE DB initstring
 Provider=SQLOLEDB.1;Password=aquauser;Persist Security Info=True;User ID=aquauser;Initial Catalog=Aquaponics;Data Source=192.168.0.1
