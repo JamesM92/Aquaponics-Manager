@@ -220,6 +220,10 @@ def get_cpu_temperature():
 
 
 def main():
+	db_object = ConfigParser()
+	db_object.read("AquaPonicsDB.udl")
+	db_info = db_object["mysql"]
+
     # Tuning factor for compensation. Decrease this number to adjust the
     # temperature down, and increase to adjust up
     factor = 2.25
@@ -233,11 +237,11 @@ def main():
     for v in variables:
         values[v] = [1] * WIDTH
 
-    conn = mysql.connector.connect(
-        user='PonicsBed',
-	password='raspberry',
-	host='xx.xxx.xxx.xxx',
-	database='aquaponics')
+	conn = mysql.connector.connect(
+		user=db_info["User ID"],
+		password=db_info["Password"],
+		host=db_info["Data Source"],
+		database=db_info["Initial Catalog"])
 
     cursor = conn.cursor()
     Time = time.time() #used to set the upload cycle
@@ -418,12 +422,13 @@ def main():
                             print("Commit Failed")
                             print("Attempting to re-connect")
                             print("may take up to 30 secs")
-						
-                            conn = mysql.connector.connect(
-                                user='PonicsMonitor',
-                                password='raspberry',
-                                host='xxx.xxx.xxx.xxx',
-                                database='aquaponics')
+					
+			conn = mysql.connector.connect(	
+				user=db_info["User ID"],
+				password=db_info["Password"],
+				host=db_info["Data Source"],
+				database=db_info["Initial Catalog"])
+
                             cursor = conn.cursor()
                             cursor.execute(query)
                             conn.commit()

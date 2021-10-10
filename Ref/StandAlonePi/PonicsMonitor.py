@@ -12,6 +12,8 @@ import sys
 
 import mysql.connector
 
+from configparser import ConfigParser
+
 ThermistorNominal = 10000
 ThermistorTempNom = 25
 BCoefficent = 3950
@@ -51,15 +53,20 @@ class rollAvg:
 
 
 def main():
+	db_object = ConfigParser()
+	db_object.read("AquaPonicsDB.udl")
+	db_info = db_object["mysql"]
+
+
 	Time = time.time()
 	print ("Wait 15 seconds to allow network connection")
 	time.sleep(15)
    	
 	conn = mysql.connector.connect(
-		user='PonicsMonitor',
-		password='raspberry',
-		host='xx.xx.xxx.xxx',
-		database='aquaponics')
+		user=db_info["User ID"],
+		password=db_info["Password"],
+		host=db_info["Data Source"],
+		database=db_info["Initial Catalog"])
 
 	cursor = conn.cursor()
 
@@ -105,10 +112,11 @@ def main():
 						print("may take up to 30 secs")
 						
 						conn = mysql.connector.connect(
-							user='PonicsMonitor',
-							password='raspberry',
-							host='xx.xx.xx.xx',
-							database='aquaponics')
+							user=db_info["User ID"],
+							password=db_info["Password"],
+							host=db_info["Data Source"],
+							database=db_info["Initial Catalog"])
+
 						cursor = conn.cursor()
 						cursor.execute(query)
 						conn.commit()
